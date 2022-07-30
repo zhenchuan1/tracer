@@ -1,0 +1,8 @@
+{
+  "tracer": [
+    {
+      "id": "tracer1",
+      "key": ["query_id", "date", "count"]
+    }
+  ]
+}
